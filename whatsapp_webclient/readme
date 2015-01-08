@@ -1,0 +1,31 @@
+M. Wegener
+
+Whatsapp WebClient integration,
+needs the whatsapp webclient by Sascha Gehlich:
+https://github.com/saschagehlich/node-whatsapp
+
+1. install node.js 0.8.1.1
+http://nodejs.org/
+version 0.8.1.1 is needed, 0.6.19 will start, but cannot connect!
+
+2. install node-whatsapp from
+https://github.com/saschagehlich/node-whatsapp
+
+3. aktivate addon
+->
+This will add an app which simply embeds
+http(s)://YOUR-iIP:3888
+into your friendica site.
+
+[there won't be an integration as a 'connector'
+(by me) ]
+
+2. cron_check_webclient.sh 
+is a cronjob script you might need, to verify your whatsapp webclient's running
+-> adapt to your needs
+
+
+3. Change the layout at
+/saschagehlich-node-whatsapp-95306fb/views
+
+

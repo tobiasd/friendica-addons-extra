@@ -1,0 +1,10 @@
+Game Description:
+Zombies have infiltrated your crypt. Kill all the zombies, then make your way to the exit!
+
+Game Instructions:
+Use arrow keys to move the ghost.
+Destroy all of the enemies and potions to unlock the exit.
+R - Restart level, P - Pause, M - Toggle Sound
+
+Dimensions:
+640x498

@@ -1,0 +1,9 @@
+This site embeds the http://www.kidzworld.com/chat children's website.
+
+It's not supposed to be used for normal friendica servers as
+adding this addon will attract minors.
+
+Rather the intended use of this plugin is for private home
+servers installed for your own children that connect to a
+limited child-safe subset of Friendica servers and not the
+network at large.

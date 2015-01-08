@@ -1,0 +1,15 @@
+WARNING:
+Using this connector may be in violation of Section 9 of
+Facebook's Statement of Rights and Responsibilities
+https://www.facebook.com/legal/terms
+
+Anyone using this connector may be blocked from accessing Facebook
+as a result of this violation.
+
+There are at this point in time, 10Feb2013, no known cases of
+anybody actaully being blocked as a result of using this connector,
+or any of the two connector which it is derived from (the facebook and fbpost connectors)
+But you should be aware that it may possibly happen at some point in time.
+
+
+

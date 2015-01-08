@@ -1,0 +1,22 @@
+### Background Info ###
+The robots.txt is not a good choice to blacklist your friendica 
+installation from search indexes as this file is intended as a tool 
+for webmasters to avoid server overload. Google does not *crawl* the 
+pages listed in robots.txt but it does *index* those pages by using 
+all the information (links, linktext) it finds on other pages. The 
+better solution is to insert the noindex metatag to the header of all 
+pages. This plugin does just that. If you enable this plugin, no page 
+of your friendica site will be shown in the search engines.  
+
+
+
+### Instructions ###
+If this plugin is activated, robots.txt should not be present (or set 
+to allow crawling), otherwise the search engines could not read the 
+noindex tag an may continue to index your site by external 
+information. 
+
+
+
+### Credits ###
+Based on the page header plugin from Keith Fernie.

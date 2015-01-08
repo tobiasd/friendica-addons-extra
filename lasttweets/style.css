@@ -1,0 +1,35 @@
+.side-tweets {
+    height: 300px;
+    width: 85%;
+    margin: 10px auto;
+}
+.profile-tweets {
+    width: 90%;
+    margin: 20px auto;
+    height: 200px;
+}
+#twitterwidget-pr-enable,
+#twitterwidget-sb-enable,
+#twitterwidget-sb-icolor,
+#twitterwidget-sb-ocolor,
+#twitterwidget-pr-icolor,
+#twitterwidget-pr-ocolor,
+#twitterwidget-pr-search,
+#twitterwidget-sb-search {
+    float: left;
+    margin-top: 10px;
+    margin-left:10px;
+}
+#twitterwidget-sb-search-label,
+#twitterwidget-sb-enable-label,
+#twitterwidget-sb-icolor-label,
+#twitterwidget-sb-ocolor-label,
+#twitterwidget-pr-icolor-label,
+#twitterwidget-pr-ocolor-label,
+#twitterwidget-pr-search-label,
+#twitterwidget-pr-enable-label {
+	float: left;
+	width: 300px;
+	margin-top: 10px;
+        padding-left: 10px;
+}
