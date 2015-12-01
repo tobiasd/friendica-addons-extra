@@ -5,6 +5,7 @@
  * Description: Inverted Tower Defence game.  WARNING:  MAJOR time sink.
  * Version: 1.0
  * Author: Thomas Willingham<http://kakste.com/profile/beardyunixer>
+ * Status: Unsupported
  */
 
 

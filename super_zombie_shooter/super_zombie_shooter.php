@@ -7,6 +7,7 @@
  * Description: Zombie Shooting game
  * Version: 1.0
  * Author: Thomas Willingham<http://kakste.com/profile/bouldrake>
+ * Status: Unsupported
  */
 
 

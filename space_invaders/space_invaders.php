@@ -5,6 +5,7 @@
  * Description: Can you beleive we lived this long without it?
  * Version: 1.0
  * Author: Thomas Willingham<http://kakste.com/profile/beardyunixer>
+ * Status: Unsupported
  */
 
 

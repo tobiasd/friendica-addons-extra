@@ -5,6 +5,7 @@
  * Description: Ridiculously addictive word game that doesn't spam your friends
  * Version: 1.0
  * Author: Thomas Willingham<http://kakste.com/profile/beardyunixer>
+ * Status: Unsupported
  */
 
 
