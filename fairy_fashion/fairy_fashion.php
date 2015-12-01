@@ -4,6 +4,7 @@
 * Description: Kids Dressup Game
 * Version: 1.0
 * Author: Thomas Willingham
+* Status: Unsupported
 */
 
 function fairy_fashion_install() {

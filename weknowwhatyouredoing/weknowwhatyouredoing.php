@@ -4,6 +4,7 @@
 * Description: Miss Facebook privacy abuse?  Add it to Friendica!
 * Version: 1.0
 * Author: Thomas Willingham
+* Status: Unsupported
 */
 
 function weknowwhatyouredoing_install() {

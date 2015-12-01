@@ -4,6 +4,7 @@
 * Description: Can I Cheat Death
 * Version: 1.0
 * Author: Thomas Willingham
+* Status: Unsupported
 */
 
 function canicheatdeath_install() {
